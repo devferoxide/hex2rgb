@@ -1,0 +1,6 @@
+name: "Hex to RGB"
+version: "1.0.0"
+description: "Covert color hex to RGB"
+url: https://github.com/devferoxide/statamic-hex2rgb.git
+developer: Devferoxide
+developer_url: https://github.com/devferoxide
