@@ -1,5 +1,5 @@
 # Hex to RGB Modifier
-Adds a modifier to conver color hex values to RGB (in a comma separated values i.e. 255, 255, 255).
+Adds a variable modifier to convert color hex values to RGB (in a comma separated values i.e. 255, 255, 255).
 
 ## Installation
 - Copy `Hex2rgb` to your `site/addons` directory
